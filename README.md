@@ -1,4 +1,4 @@
 # js-learning
 javascript learning a
 <br>
-Author - Dhruv Singh
+Author - Dhruv Singh ( backend dev)
